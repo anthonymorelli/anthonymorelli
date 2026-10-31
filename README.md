@@ -4,7 +4,7 @@ Data and business analyst in Southern California. Looking for data and BI analys
 
 ## What I'm building
 
-**[Vigil](https://github.com/anthonymorelli/prop-screen-web)** - +EV scanner for DFS player props. Devigs sportsbook and exchange prices into a weighted fair probability, solves break-even per slip type from the payout grid, and ranks plays by edge. Next.js 16, TypeScript, Tailwind v4, shadcn/ui; Python and pandas for the pipeline. [Live demo](https://prop-screen-web.vercel.app/board) (runs on mock data).
+**[Vigil](https://github.com/anthonymorelli/vigil)** - +EV scanner for DFS player props. Devigs sportsbook and exchange prices into a weighted fair probability, solves break-even per slip type from the payout grid, and ranks plays by edge. Next.js 16, TypeScript, Tailwind v4, shadcn/ui; Python and pandas for the pipeline. [Live demo](https://prop-screen-web.vercel.app/board) (runs on mock data).
 
 ## Background
 
